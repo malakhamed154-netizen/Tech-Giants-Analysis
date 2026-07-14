@@ -59,11 +59,6 @@ we failed to reject the null hypothesis
 = By performing a VIF(Variance Inflation Factor) analysis we identified high multicollinearity between Total Revenue and Gross Profit this indicates that both features carry 
 similar information 
 
-= We calculated net profit margin because it represents tha actual percentage of revenue that turns into profit, providing a standardized way to measure a company's ability
-to control its costs, regardless of its total scale. 
-
-= We utilized StandardScaler to normalize our data, enabling fair comparisons between companies of different sizes(such as Amazon), this scalling process helped us analyze net income per employee and net profit margin in balanced way avoiding the misleading effects of raw larger-scale financial figures.
-
 our analysis revealed a significant variation in employee productivity across different tech giants, demonstrating that increasing headcount does not always guarantee higher operational efficiency. 
 
 ## Project Reference & Documentation
