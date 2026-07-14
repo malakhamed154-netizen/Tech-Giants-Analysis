@@ -2,17 +2,6 @@ import yfinance as yf
 import pandas as pd 
 import time
  
-def tech(companies):
-   """
-   scrapes financial data for a list of companies using yfinance.
-   This function itrtates through a dictionary of tickers, extracts key financial metrics(Revenue, Profit, Net Income, Employee Count) and complies them into
-   a structured list.
-   Args:
-      a dictionary where keys are tickers and values are company names.
-   Returns:
-      a dataframe containing all scraped fianancial data.
-      """
-
 companies = {
     'AAPL': 'Apple',
     'GOOGL': 'Google',
