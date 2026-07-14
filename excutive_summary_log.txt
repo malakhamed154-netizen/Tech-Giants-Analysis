@@ -5,7 +5,7 @@
 1. Project Scope & Scale 
 - Trget Sector: Technology Sector.
 - Sample Size: 6 core companies extracted and analyzed. 
-- Actual Year: 5 years 
+- Actual Year: 4 years 
 - Extracted Raw Features: Total Revenue, Gross Profit, Net Income, and Full Time Employment. 
 
 2. Sector Key Statistics (Desciptive Overview)
