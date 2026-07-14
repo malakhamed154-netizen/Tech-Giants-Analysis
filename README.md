@@ -33,6 +33,8 @@ README.md
 
 
 
+
+
 | Column Name | Data Type | Description |
 
 | Company_Name | String | The official name of the technology corporation. |
