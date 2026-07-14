@@ -10,17 +10,24 @@ data:
 
 webscraping_yahoo finance.py
 
+
 raw_data.csv
+
 
 data_cleaning.py
 
+
 cleaned_data.csv
+
 
 yfinance.EDA.ipynb
 
+
 Data Science Gateway.ipynb
 
+
 requirments.txt
+
 
 README.md
 
