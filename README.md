@@ -7,10 +7,10 @@ for majot technology corporations. our goal is to determine if large-scale human
 
 ## Project Architecture 
 data:
-raw_data.csv
-clraned_data.csv
 webscraping_yahoo finance.py
+raw_data.csv
 data_cleaning.py
+cleaned_data.csv
 yfinance.EDA.ipynb
 Data Science Gateway.ipynb
 requirments.txt
