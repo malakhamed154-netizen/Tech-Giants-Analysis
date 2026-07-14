@@ -59,7 +59,8 @@ we failed to reject the null hypothesis
 = By performing a VIF(Variance Inflation Factor) analysis we identified high multicollinearity between Total Revenue and Gross Profit this indicates that both features carry 
 similar information 
 
-our analysis revealed a significant variation in employee productivity across different tech giants, demonstrating that increasing headcount does not always guarantee higher operational efficiency. 
+our analysis revealed a significant variation in employee productivity across different tech giants, demonstrating that increasing headcount does not always guarantee higher operational efficiency,also
+companies should focus more on how productive each employee is , rather than just trying to hire more people the most successful companies are those that use technology to grow and make more money without needing to hire a huge number of extra staff. 
 
 ## Project Reference & Documentation
 https://www.geeksforgeeks.org/data-science/understanding-hypothesis-testing/
@@ -72,3 +73,4 @@ https://stackoverflow.com/questions/42658379/variance-inflation-factor-in-python
 
 https://www.statology.org/multicollinearity-in-python/
 https://machinelearningmastery.com/expert-level-feature-engineering-advanced-techniques-for-high-stakes-models/
+
